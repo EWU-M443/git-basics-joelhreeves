@@ -1,0 +1,9 @@
+# Testing some markdown features: First level
+## Second Level
+###Third Level
+**Bold**
+*Italic*
+~~Strikethrough~~
+***Bold and Italic***
+<sub>subscript</sub>
+<sup)superscript</sup>
